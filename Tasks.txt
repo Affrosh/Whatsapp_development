@@ -1,0 +1,17 @@
+ java tasks
+
+1. print theduplicate numbers of array in java??
+
+ip: 11, 23, 3, 4, 11, 7, 8, 8, 23
+
+2.Reverse the num in an array?
+
+ip: 10 9 8 7 6
+
+3.Sort the elements in ascending order using array?
+
+ip: 3 7 1 4 9
+
+4.Third largest num in array?
+
+ip: int a[]={4,6,9,7,3,2,5}; 
